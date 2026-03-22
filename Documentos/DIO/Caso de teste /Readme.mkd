@@ -1,0 +1,3 @@
+# Desafio-DIO-Jira
+
+## O desafio era criar no mínimo 2 histórias de usuários com o JIRA SOFTWARE, porém com as extensões da ferramenta estão agora pagas, fizeram de outra maneira.
